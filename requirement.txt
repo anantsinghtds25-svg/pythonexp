@@ -1,0 +1,14 @@
+# Requirements for Python Calculator
+
+# Python 3.10 or above
+
+# This project uses Python's built-in libraries,
+# so no extra packages need to be installed.
+
+# Libraries used:
+# math
+# json
+# os
+# ast
+# operator
+# unittest
